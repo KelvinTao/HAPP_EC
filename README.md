@@ -27,4 +27,4 @@ Folder eyecolor_result/eye/loc shows iris segmentation details and images of *.u
 Folder eyecolor_result/eye/colorStat includes eye color quantification file colorStat.csv—medians and means of HSV and RGB, and classification file eyecolor_prediction*.csv-automated classification by medians of HSV. eyecolor_prediction_basemodel.csv is classified by default SVM models. eyecolor_prediction_addnewReference.csv is classified after adding new manual classifications.
 
 Notation:
-Please download "shape_predictor_68_face_landmarks.dat" file from "http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2" and decompress it here.
+please download "shape_predictor_68_face_landmarks.dat" file from "http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2" and decompress it here.
