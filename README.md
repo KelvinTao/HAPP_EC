@@ -16,7 +16,7 @@ Packages needed in R: imager, e1071.
 # Usage
 Change setup in the HAPP_EC/config.ini file.
 1. picPath is the full directory path of facial photos (jpg or png format).
-2. If you have manual classified eye colors and want use them as a part of reference, then write the results in the format of ../humanRead_reference/eyecolor_read_examples.txt and give its path to humanRead_refFile. if not, humanRead_refFile=‘’
+2. If you have manual classified eye colors and want use them as a part of reference, then write the results in the format of humanRead_reference/eyecolor_read_examples.txt and give its path to humanRead_refFile. if not, humanRead_refFile=‘’
 3. resPath is the place where you want to save the result.
 4. Run command ‘python run.py’ in the folder HAPP_EC or 'python path_to/HAPP_EC/run.py' to run the whole pipeline.
 
