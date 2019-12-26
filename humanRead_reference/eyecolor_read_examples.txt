@@ -1,0 +1,4 @@
+photo	LeftInPhoto RightInPhoto
+XJ359.JPG	3	3
+XJ619.JPG	4	4
+XJ867.JPG	4	4
